@@ -1,6 +1,6 @@
-# rgbMarketplace - An NFT Marketplace
+# DropiNFT - An NFT Marketplace
 
-rgbMarketplace is an NFT marketplace, which allow users to create and buy NFTs. It also shows the NFTs that user owns (already brought from marketplace), and it also has a Creator Dashboard which displays the NFTs the created by the user and also his/her NFTs that are already been sold. We also added a 'Learn' page where user can gain knowledge about NFTs.
+DropiNFT is an NFT marketplace, which allow users to create and buy NFTs. It also shows the NFTs that user owns (already brought from marketplace), and it also has a Creator Dashboard which displays the NFTs the created by the user and also his/her NFTs that are already been sold. We also added a 'Learn' page where user can gain knowledge about NFTs.
 
 ### Run the following commands:
 

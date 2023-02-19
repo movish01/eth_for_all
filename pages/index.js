@@ -83,7 +83,7 @@ export default function Home() {
           <div className="hero-content grid grid-cols-2 mr-0">
             <div>
               <h1 className="text-8xl font-bold">
-                rgb<span className="text-purple-500">Marketplace</span>
+                Dropi<span className="text-purple-500">NFT</span>
               </h1>
               <p className="py-6">
                 An NFT Marketplace - Buy, Showcase and Learn about NFTs
@@ -131,7 +131,7 @@ export default function Home() {
         <div className="hero-content grid grid-cols-2 mr-0">
           <div>
             <h1 className="text-6xl font-bold">
-              rgb<span className="text-purple-500">Marketplace</span>
+              Dropi<span className="text-purple-500">NFT</span>
             </h1>
             <p className="py-6">
               An NFT Marketplace - Buy, Showcase and Learn about NFTs
