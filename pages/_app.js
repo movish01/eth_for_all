@@ -34,7 +34,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <div>
       <head>
-        <title>rgbMarketplace</title>
+        <title>DropiNFT</title>
         <link rel="shortcut icon" href="/favicon.ico" />
       </head>
 
@@ -51,7 +51,7 @@ function MyApp({ Component, pageProps }) {
             <span className="text-3xl text-gray-900 font-semibold">
               <Link href="/">
                 <a className="mr-6 text-black-500">
-                  rgb<span className="text-purple-500">Marketplace</span>
+                  Dropi<span className="text-purple-500">NFT</span>
                 </a>
               </Link>
             </span>

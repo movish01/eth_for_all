@@ -130,7 +130,7 @@ export default function Home() {
       <div className="hero max-h-full">
         <div className="hero-content grid grid-cols-2 mr-0">
           <div>
-            <h1 className="text-6xl font-bold">
+            <h1 className="text-8xl font-bold">
               Dropi<span className="text-purple-500">NFT</span>
             </h1>
             <p className="py-6">
